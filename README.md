@@ -1,2 +1,2 @@
 # script-GAM
-Various GAM analysis
+Various GAM analysis + SDM using sdmTMB (example)
